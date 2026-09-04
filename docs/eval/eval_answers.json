@@ -1,0 +1,719 @@
+[
+  {
+    "seq": 1,
+    "dbid": 5057,
+    "bucket": "Job",
+    "title": "Staff Software Engineer, Model Serving ",
+    "category": "job",
+    "role_type": "Staff Software Engineer",
+    "seniority": "staff+",
+    "remote_type": "hyperlocal_sf",
+    "engagement_type": "full_time",
+    "correct": "Y"
+  },
+  {
+    "seq": 2,
+    "dbid": 5852,
+    "bucket": "Job",
+    "title": "Lead, Process Excellence",
+    "remote_type": "remote",
+    "category": "job",
+    "role_type": "process excellence lead",
+    "seniority": "senior",
+    "engagement_type": "full_time",
+    "correct": "Y"
+  },
+  {
+    "seq": 3,
+    "dbid": 7897,
+    "bucket": "Job",
+    "title": "Accommodation Administrator FIFO 14 7 Roster Cairns Queensland",
+    "category": "job",
+    "role_type": "Accommodation Administrator",
+    "remote_type": "other",
+    "notes": "job actually in AUS",
+    "seniority": "junior",
+    "engagement_type": "full_time",
+    "correct": "Y"
+  },
+  {
+    "seq": 4,
+    "dbid": 9333,
+    "bucket": "Job",
+    "title": " Senior Revenue Accountant",
+    "category": "job",
+    "seniority": "senior",
+    "role_type": "Senior Revenue Accountant",
+    "notes": "Accountant--should be low on preference",
+    "engagement_type": "full_time",
+    "remote_type": "other",
+    "correct": "Y"
+  },
+  {
+    "seq": 5,
+    "dbid": 14649,
+    "bucket": "Job",
+    "title": "Principal Data Scientist - Cloud Gaming and AI",
+    "engagement_type": "full_time",
+    "category": "job",
+    "role_type": "data scientist",
+    "remote_type": "bay_area",
+    "seniority": "staff+",
+    "correct": "N",
+    "notes": "might need to tweak seniority buckets.  'principal' is usually above staff"
+  },
+  {
+    "seq": 6,
+    "dbid": 15759,
+    "bucket": "Job",
+    "title": "Senior Software Engineer",
+    "category": "job",
+    "seniority": "senior",
+    "role_type": "software engineer",
+    "remote_type": "hyperlocal_sf",
+    "engagement_type": "full_time",
+    "correct": "Y"
+  },
+  {
+    "seq": 7,
+    "dbid": 16271,
+    "bucket": "Job",
+    "title": "Senior Mechanical Engineer",
+    "category": "job",
+    "role_type": "mechanical engineer",
+    "remote_type": "hyperlocal_sf",
+    "seniority": "senior",
+    "notes": "mech engi-- should be low pref",
+    "engagement_type": "full_time",
+    "correct": "Y"
+  },
+  {
+    "seq": 8,
+    "dbid": 17015,
+    "bucket": "Job",
+    "title": "Principal Software Engineer ADEM (ADEM - Autonomous Digital Experience Management) - Windows",
+    "category": "job",
+    "role_type": "swe",
+    "engagement_type": "full_time",
+    "remote_type": "bay_area",
+    "seniority": "staff+",
+    "correct": "Y",
+    "notes": "principal bucket vs lead miscategorized?"
+  },
+  {
+    "seq": 9,
+    "dbid": 19449,
+    "bucket": "Job",
+    "title": "AI Platform Engineer, Backend",
+    "remote_type": "hyperlocal_sf",
+    "role_type": "swe backend",
+    "category": "job",
+    "correct": "Y",
+    "seniority": "mid",
+    "engagement_type": "full_time"
+  },
+  {
+    "seq": 10,
+    "dbid": 20551,
+    "bucket": "Job",
+    "title": "Senior Accountant, Accounts Payable",
+    "category": "job",
+    "role_type": "accounting",
+    "seniority": "senior",
+    "remote_type": "other",
+    "engagement_type": "full_time",
+    "correct": "Y"
+  },
+  {
+    "seq": 11,
+    "dbid": 20813,
+    "bucket": "Job",
+    "title": "Senior Cloud Network Engineer ",
+    "category": "job",
+    "seniority": "senior",
+    "role_type": "swe",
+    "engagement_type": "full_time",
+    "remote_type": "other",
+    "correct": "Y"
+  },
+  {
+    "seq": 12,
+    "dbid": 20821,
+    "bucket": "Job",
+    "title": "Senior Engineering Program Coordinator ",
+    "category": "job",
+    "seniority": "senior",
+    "role_type": "engineer- manager",
+    "engagement_type": "full_time",
+    "remote_type": "other",
+    "correct": "Y"
+  },
+  {
+    "seq": 13,
+    "dbid": 24748,
+    "bucket": "Job",
+    "title": "Clinical Nurse (RN), Cardiovascular Transplant Surgery - 1.0 FTE, Days (10HR)",
+    "category": "job",
+    "remote_type": "bay_area",
+    "role_type": "nurse",
+    "seniority": "mid",
+    "engagement_type": "full_time",
+    "correct": "Y"
+  },
+  {
+    "seq": 14,
+    "dbid": 27459,
+    "bucket": "Job",
+    "title": "Senior Robotics Software Engineer, Maritime",
+    "category": "job",
+    "seniority": "senior",
+    "remote_type": "other",
+    "engagement_type": "full_time",
+    "role_type": "swe robotics",
+    "correct": "Y"
+  },
+  {
+    "seq": 15,
+    "dbid": 28152,
+    "bucket": "Job",
+    "title": "Tracking Software Engineer, Space",
+    "category": "job",
+    "remote_type": "other",
+    "role_type": "swe",
+    "engagement_type": "full_time",
+    "seniority": "mid",
+    "correct": "Y"
+  },
+  {
+    "seq": 16,
+    "dbid": 28456,
+    "bucket": "Job",
+    "title": "Electromechanical Technician (Starshield)",
+    "category": "job",
+    "engagement_type": "full_time",
+    "seniority": "junior",
+    "remote_type": "other",
+    "correct": "Y",
+    "role_type": "technician"
+  },
+  {
+    "seq": 17,
+    "dbid": 30059,
+    "bucket": "Job",
+    "title": "Planning Manager - GOC",
+    "category": "job",
+    "remote_type": "remote",
+    "seniority": "lead",
+    "engagement_type": "full_time",
+    "role_type": "top level manager",
+    "notes": "seniority mismatch -- need to revisit seniority buckets and classification?  less important for non-entry level for me, but relevant otherwise.",
+    "correct": "N"
+  },
+  {
+    "seq": 18,
+    "dbid": 31607,
+    "bucket": "Job",
+    "title": "Senior Counsel (Regulatory)",
+    "category": "job",
+    "role_type": "lawyer",
+    "seniority": "senior",
+    "engagement_type": "full_time",
+    "remote_type": "other",
+    "correct": "Y"
+  },
+  {
+    "seq": 19,
+    "dbid": 33977,
+    "bucket": "Job",
+    "title": "Director of Office of the CEO, Founder in Residence ",
+    "category": "job",
+    "remote_type": "bay_area",
+    "engagement_type": "full_time",
+    "seniority": "lead",
+    "role_type": "manager/exec",
+    "correct": "Y",
+    "notes": "seniority buckets off-- note that our seniority buckets are specific to SWE roles-- but even for those they don't necessarily capture top-level distinctions well (not that the need to?)-- maybe a rag system for them-- probably better to just tier the seniority classification by role_category (i.e. tech seniority levels only for tech jobs, else simpler buckets)"
+  },
+  {
+    "seq": 20,
+    "dbid": 34567,
+    "bucket": "Job",
+    "title": "Lead Autonomy Behavior Engineer",
+    "category": "job",
+    "role_type": "swe- robotics",
+    "seniority": "lead",
+    "engagement_type": "full_time",
+    "remote_type": "other",
+    "correct": "Y"
+  },
+  {
+    "seq": 21,
+    "dbid": 504,
+    "bucket": "Event",
+    "title": "Body is the Interface workshop (Zach Lieberman <> tiat)",
+    "category": "event"
+  },
+  {
+    "seq": 22,
+    "dbid": 520,
+    "bucket": "Event",
+    "title": "World's largest design picnic | Config 2026 Wind-down Picnic with Design Buddies & friends! 🐰",
+    "category": "event"
+  },
+  {
+    "seq": 23,
+    "dbid": 535,
+    "bucket": "Event",
+    "title": "THE AI Engineer Afterparty",
+    "category": "event"
+  },
+  {
+    "seq": 24,
+    "dbid": 7351,
+    "bucket": "Event",
+    "title": "AWS Agentic AI Summit with MongoDB Mastra",
+    "category": "event"
+  },
+  {
+    "seq": 25,
+    "dbid": 7364,
+    "bucket": "Event",
+    "title": "Ingesting Agent Traces with dlthub",
+    "category": "event"
+  },
+  {
+    "seq": 26,
+    "dbid": 7376,
+    "bucket": "Event",
+    "title": "CyberConnect: Virtual Career & Networking Hub for Cybersecurity Pros",
+    "category": "event"
+  },
+  {
+    "seq": 27,
+    "dbid": 7391,
+    "bucket": "Event",
+    "title": "July 10 - Best of CVPR (Day 3)",
+    "category": "event"
+  },
+  {
+    "seq": 28,
+    "dbid": 7397,
+    "bucket": "Event",
+    "title": "July 8 - Best of CVPR (Day 1)",
+    "category": "event"
+  },
+  {
+    "seq": 29,
+    "dbid": 7398,
+    "bucket": "Event",
+    "title": "Building with AI: Show, Share, and Collaborate",
+    "category": "event"
+  },
+  {
+    "seq": 30,
+    "dbid": 7400,
+    "bucket": "Event",
+    "title": "The Future of Agentic Engineering and AI Workforces with Qoder",
+    "category": "event"
+  },
+  {
+    "seq": 31,
+    "dbid": 7410,
+    "bucket": "Event",
+    "title": "Get Google AI Certified - AI Professionals' July 2026 Cohort",
+    "category": "event"
+  },
+  {
+    "seq": 32,
+    "dbid": 7412,
+    "bucket": "Event",
+    "title": "July 10 - Best of CVPR (Day 3)",
+    "category": "event"
+  },
+  {
+    "seq": 33,
+    "dbid": 7415,
+    "bucket": "Event",
+    "title": "R Data Science Accelerator: 1 Day Workshop in San Francisco, CA",
+    "category": "event"
+  },
+  {
+    "seq": 34,
+    "dbid": 7423,
+    "bucket": "Event",
+    "title": "Decrypting DeSci (Decentralized Science) | San Francisco",
+    "category": "event"
+  },
+  {
+    "seq": 35,
+    "dbid": 7434,
+    "bucket": "Event",
+    "title": "Intelligent Business Strategies  2 Days Workshop in  San Francisco, CA",
+    "category": "event"
+  },
+  {
+    "seq": 36,
+    "dbid": 7448,
+    "bucket": "Event",
+    "title": "Integrating Blockchain and AI (Artificial Intelligence) | San Francisco",
+    "category": "event"
+  },
+  {
+    "seq": 37,
+    "dbid": 7449,
+    "bucket": "Event",
+    "title": "Implementation in Business | San Francisco",
+    "category": "event"
+  },
+  {
+    "seq": 38,
+    "dbid": 7451,
+    "bucket": "Event",
+    "title": "AI Security Intelligence Workshop 1 Day in San Francisco, CA",
+    "category": "event"
+  },
+  {
+    "seq": 39,
+    "dbid": 7458,
+    "bucket": "Event",
+    "title": "AI Skills for Healthcare: 1 Day Basic to Intermediate Course, San Francisco",
+    "category": "event"
+  },
+  {
+    "seq": 40,
+    "dbid": 7737,
+    "bucket": "Event",
+    "title": "Dwarkesh Unplugged, presented by WorkOS",
+    "category": "event",
+    "correct": "Y",
+    "remote_type": "hyperlocal_sf"
+  },
+  {
+    "seq": 41,
+    "dbid": 407,
+    "bucket": "Mixed / Ambiguous",
+    "title": "(none)",
+    "category": "irrelevant",
+    "notes": "non-jobpost comment on YC.  correct category -- we should filter these out from even being pulled though.",
+    "correct": "Y"
+  },
+  {
+    "seq": 42,
+    "dbid": 509,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Brex Design Config After Hours",
+    "category": "event"
+  },
+  {
+    "seq": 43,
+    "dbid": 538,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Future Code: Rewriting the Developer Frontier",
+    "category": "event"
+  },
+  {
+    "seq": 44,
+    "dbid": 3725,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Market Manager",
+    "category": "job",
+    "engagement_type": "full_time",
+    "remote_type": "other",
+    "role_type": "manager",
+    "seniority": "mid",
+    "correct": "Y"
+  },
+  {
+    "seq": 45,
+    "dbid": 3730,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Tech Recruiter",
+    "role_type": "recruiter",
+    "notes": "the url actually changed-- and the job is actually 'finance lead'!\nshould test whether this was just overwritten since scrape, or if it's actually buggy.\nshould be low pref",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 46,
+    "dbid": 7439,
+    "bucket": "Mixed / Ambiguous",
+    "title": "AI Fluency Pathway - San Francisco",
+    "category": "event",
+    "correct": "N",
+    "notes": "should be event, miscategorized"
+  },
+  {
+    "seq": 47,
+    "dbid": 7734,
+    "bucket": "Mixed / Ambiguous",
+    "title": "The Odyssey — Early Screening (Decagon x Baseten)",
+    "category": "event",
+    "notes": "non-tech related"
+  },
+  {
+    "seq": 48,
+    "dbid": 7933,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Job Title",
+    "category": "job",
+    "notes": "probably spam, correctly flagged suspicious",
+    "correct": "Y"
+  },
+  {
+    "seq": 49,
+    "dbid": 7962,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Simple Speaker",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 50,
+    "dbid": 7965,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Executive",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 51,
+    "dbid": 7973,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Operator",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 52,
+    "dbid": 11848,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Data Analytics AI Engineer",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 53,
+    "dbid": 11936,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Applied Data Scientist / Engineer -CLT Role",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 54,
+    "dbid": 12221,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Senior Software Engineer: Data Scientist",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 55,
+    "dbid": 13398,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Resource mobiliser",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 56,
+    "dbid": 25420,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Staff Data Engineer",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 57,
+    "dbid": 25426,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Data Engineer",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 58,
+    "dbid": 25468,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Machine Learning Engineer - All Levels",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 59,
+    "dbid": 25488,
+    "bucket": "Mixed / Ambiguous",
+    "title": "Research Scientist",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 60,
+    "dbid": 25553,
+    "bucket": "Mixed / Ambiguous",
+    "title": "[AI 웨비나] Data Engineer/Data Analytics Engineer",
+    "category": "job",
+    "correct": "Y"
+  },
+  {
+    "seq": 61,
+    "dbid": 350,
+    "bucket": "Networking",
+    "title": "(none)",
+    "category": "networking",
+    "notes": "IF we build out the networking lead feature more, it probably needs to be highly specific; idk-- probably better to just replace it with an application tracker with contact info, or identify people to contact at jobs/companies I really want?",
+    "correct": "Y"
+  },
+  {
+    "seq": 62,
+    "dbid": 355,
+    "bucket": "Networking",
+    "title": "(none)",
+    "category": "networking",
+    "correct": "Y"
+  },
+  {
+    "seq": 63,
+    "dbid": 406,
+    "bucket": "Networking",
+    "title": "(none)",
+    "category": "networking",
+    "correct": "Y"
+  },
+  {
+    "seq": 64,
+    "dbid": 462,
+    "bucket": "Networking",
+    "title": "(none)",
+    "category": "networking",
+    "correct": "Y"
+  },
+  {
+    "seq": 65,
+    "dbid": 487,
+    "bucket": "Networking",
+    "title": "(none)",
+    "category": "networking",
+    "correct": "Y"
+  },
+  {
+    "seq": 66,
+    "dbid": 488,
+    "bucket": "Networking",
+    "title": "(none)",
+    "category": "networking",
+    "correct": "Y"
+  },
+  {
+    "seq": 67,
+    "dbid": 507,
+    "bucket": "Networking",
+    "title": "Our Agentic Future: An Evening of Networking & Discussion on Intelligent Finance",
+    "category": "event",
+    "correct": "N",
+    "notes": "networking *event*"
+  },
+  {
+    "seq": 68,
+    "dbid": 513,
+    "bucket": "Networking",
+    "title": "After Hours: Dim Sum & Mahjong",
+    "notes": "networking event",
+    "category": "event",
+    "correct": "N"
+  },
+  {
+    "seq": 69,
+    "dbid": 525,
+    "bucket": "Networking",
+    "title": "Sentry x GLITCHED & GGWP - Women in Game Dev Meetup",
+    "category": "event"
+  },
+  {
+    "seq": 70,
+    "dbid": 541,
+    "bucket": "Networking",
+    "title": "Extraordinary Founders Dinner (hosted by Andrew Yeung)",
+    "category": "event"
+  },
+  {
+    "seq": 71,
+    "dbid": 7402,
+    "bucket": "Networking",
+    "title": "Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
+    "category": "event"
+  },
+  {
+    "seq": 72,
+    "dbid": 7447,
+    "bucket": "Networking",
+    "title": "Startup Tech & AI Networking in San Francisco",
+    "category": "event"
+  },
+  {
+    "seq": 73,
+    "dbid": 7669,
+    "bucket": "Networking",
+    "title": "(none)",
+    "category": "networking",
+    "correct": "Y"
+  },
+  {
+    "seq": 74,
+    "dbid": 7725,
+    "bucket": "Networking",
+    "title": "Open Studios: Clothing Swap & Headshots for Women & Femmes",
+    "category": "event",
+    "correct": "N"
+  },
+  {
+    "seq": 75,
+    "dbid": 7732,
+    "bucket": "Networking",
+    "title": "Researcher Game Night - Applied Compute",
+    "category": "event",
+    "correct": "N"
+  },
+  {
+    "seq": 76,
+    "dbid": 7738,
+    "bucket": "Networking",
+    "title": "Scaling revenue at Stripe and Vercel with Jeanne DeWitt Grosser (COO, Vercel)",
+    "category": "event",
+    "correct": "N"
+  },
+  {
+    "seq": 77,
+    "dbid": 23528,
+    "bucket": "Networking",
+    "title": "Join our Talent Community!",
+    "category": "networking",
+    "correct": "Y"
+  },
+  {
+    "seq": 78,
+    "dbid": 33103,
+    "bucket": "Networking",
+    "title": "Join Our Talent Network",
+    "notes": "mailing list",
+    "category": "irrelevant",
+    "correct": "N"
+  },
+  {
+    "seq": 79,
+    "dbid": 33804,
+    "bucket": "Networking",
+    "title": "Customer Council",
+    "notes": "glorified mailing list -- feedback community",
+    "category": "irrelevant"
+  },
+  {
+    "seq": 80,
+    "dbid": 35377,
+    "bucket": "Networking",
+    "title": "Don’t See the Right Role? Join Our Talent Community",
+    "notes": "\"talent community\" - job-adjacent?",
+    "category": "networking",
+    "correct": "N"
+  }
+]

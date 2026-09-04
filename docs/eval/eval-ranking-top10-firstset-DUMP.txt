@@ -1,0 +1,326 @@
+# this is for manually evaluating the preference ranker per my proposal
+# it's a copypaste of the top results from the ranker for manual review
+# notes are made based on whether the ranker is producing desirable jobs
+# for the ranking criteria to be adjusted or fine-tuned from
+
+
+
+Jobs Pipeline
+
+Browse
+
+
+Digest
+
+Search title/text
+
+Category
+
+(any)
+Seniority
+
+(any)
+Engagement type
+
+(any)
+Sort by
+
+Preference Score
+
+27728 of 28713 items
+
+
+AI Trainer – Psychologists (UK) · job · freelance · preference score 28.4
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4761608101
+
+🔹 Psychology degree required but no years of experience specified; lower barrier to entry than typical AI/ML roles, positioned as accessible to domain experts rather than engineers.
+
+Details
+
+
+
+AI Trainer – Psychologists (CAN) · job · freelance · preference score 28.4
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4761606101
+
+🔹 Psychology degree preferred but not strictly required; lower barrier to entry than typical ML/AI roles, positioned as accessible to domain experts rather than engineers.
+
+Details
+
+
+
+Founding Research Engineer, RL/Reasoning · job · contract · preference score 28.1
+
+linkedin_apify · https://www.linkedin.com/jobs/view/founding-research-engineer-rl-reasoning-at-biostack-platforms-4407966703?position=27&pageNum=0&refId=JlFB1Gy9zFFfVg0gez91Sg%3D%3D&trackingId=wQoKmAv12L1g0AVYmknJmw%3D%3D
+
+🔹 Entry-level RL/ML engineering role is slightly less demanding than typical for 'founding engineer' titles, which usually expect mid+ seniority.
+
+Details
+
+Entry level, Contract
+
+About BioStack
+
+BioStack is building the data layer for AI-native healthcare and drug discovery. We work with leading AI labs, human data companies, and frontier biotech teams to source, structure, and deliver high-value clinical and preclinical datasets for model training, evaluation, and deployment. We sit at the intersection of healthcare, frontier AI, and data infrastructure. Our work spans medical institutions, clinics, imaging centers, and data partners globally, turning messy real-world clinical workflows into AI-ready products that matter. BioStack is backed by Y Combinator, Afore Capital, Verdict Capital, Heroic VC, and high-profile angels from Meta and Google DeepMind.
+
+About the Role ﻿ As an RL Engineer at BioStack, you will help build the reinforcement learning infrastructure for healthcare AI. BioStack is building the data engine and RL environment layer for medical AI systems. We source high-value clinical datasets, structure them into mode
+
+
+
+Robot Learning Residency · job · contract · preference score 28.1
+
+linkedin_apify · https://www.linkedin.com/jobs/view/robot-learning-residency-at-stealth-startup-4428429362?position=23&pageNum=0&refId=JlFB1Gy9zFFfVg0gez91Sg%3D%3D&trackingId=eCc1N%2B%2BXDs5wP2MT0pSyZw%3D%3D
+
+🔹 Entry-level contract residency with BS/MS requirement is slightly less demanding than typical mid-level robotics engineering roles, though hands-on systems experience is substantial.
+
+Details
+
+Entry level, Contract
+
+The role is ON-SITE, full-time and contract-based. Minimum duration is 6 months, renewable. 
+
+About us We're a stealth startup at the frontier of physical AI, building foundation models for robotics and the world models that will power the next generation of thinking machines. Backed by a substantial seed round and founded by researchers from the world's leading AI labs, we're a collective of elite engineers, scientists, and operators advancing the science of robotic learning. Early-stage. Well-capitalized. Fast-paced. Hands-on. If you're a builder ready to make real impact from day one, you've found the right place.
+
+Role Description We're looking for a Robot Learning Resident Candidate who thrives at the intersection of hardware and software. You'll own the entire system — running experiments, driving robot operations, and turning raw data into training fuel that accelerates our models. Able to contribute to cutting edge research. If you move fast, take
+
+
+
+** AI Trainer – Visual & Graphic Design Expert** · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4791722101
+
+🔹 Requires formal design education + 1y experience OR 5y experience; typical AI trainer roles have lower barriers to entry.
+
+Details
+
+
+
+Project Based Freelance Contributor - Assessment Item Specialist, Social Studies (Remote, US) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.greenhouse.io/newsela/jobs/7859662
+
+Details
+
+Why You'll Love This Role: 
+
+As an Assessment Item Specialist for Social Studies, you will play a key role in expanding the Newsela Item Bank, ensuring students have access to high-quality, inquiry-based assessments. You will leverage your Social Studies expertise to create rigorous, standards-aligned content and evaluate primary and secondary sources that help educators deliver data-informed instruction. This role offers a collaborative, remote environment where your commitment to historical thinking and evidence-based analysis directly supports academic success in classrooms nationwide. You will enjoy the flexibility of a freelance contract while contributing to a platform that is a staple in K-12 digital learning.
+
+What You'll Be Doing:
+
+Create original, standards-aligned Social Studies assessment items, tasks, and stimuli that are precisely mapped to state-specific standards and the C3 Framework.
+
+Select and curate high-quality primary and secondary sources, including maps, c
+
+
+
+AI Trainer – Visual & Graphic Design Expert · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4791790101
+
+🔹 Requires formal design education + 1y experience OR 5y experience; typical AI trainer roles often have lower barriers to entry.
+
+Details
+
+
+
+AI Trainer – Visual & Graphic Design Expert · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4791786101
+
+🔹 Requires formal design education + 1y experience OR 5y experience; typical AI trainer roles have lower barriers to entry.
+
+Details
+
+
+
+AI Trainer – Visual & Graphic Design Expert · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4791785101
+
+🔹 Requires formal design education + 1y experience OR 5y experience; typical AI trainer roles have lower barriers to entry.
+
+Details
+
+
+
+AI Trainer – Visual & Graphic Design Expert · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4791787101
+
+🔹 Requires formal design education + 1y experience OR 5y experience; typical AI trainer roles have lower barriers to entry.
+
+Details
+
+
+
+AI Trainer – Visual & Graphic Design Expert · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4791788101
+
+🔹 Requires formal design education + 1y experience OR 5y experience; typical AI trainer roles have lower barriers to entry.
+
+Details
+
+
+
+**AI Trainer - Computer Scientist (EST) ** · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4761592101
+
+🔹 Requires CS background/degree but no years of experience specified; more accessible than typical senior ML/AI roles despite domain expertise requirement.
+
+Details
+
+
+
+AI Trainer - Medical Doctors (EST) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4763497101
+
+🔹 Requires domain expertise (MD license) but no software/ML background or years of AI experience typical for AI roles; task-based rather than traditional role requirements.
+
+Details
+
+
+
+AI Trainer - Clinicians (PST) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4780054101
+
+🔹 Requires domain expertise (clinician license) but no software/ML engineering skills; lower barrier than typical ML roles.
+
+Details
+
+
+
+AI Trainer - Clinicians (AUS) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4780058101
+
+🔹 Requires only current clinical license/registration and recent experience, no advanced degrees or years-of-service minimums typical for clinical AI roles.
+
+Details
+
+
+
+AI Trainer - Clinicians (MX) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4780059101
+
+🔹 Requires domain expertise (clinician license) but no software/ML background needed; lower barrier than typical ML roles.
+
+Details
+
+
+
+AI Trainer - Clinicians (CAN) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4780057101
+
+🔹 Requires domain expertise (clinician license) but no traditional software/ML engineering skills; lower barrier than typical ML roles.
+
+Details
+
+
+
+AI Training - Lawyers (CAN) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4748937101
+
+🔹 Requires verified legal credentials but no years-of-experience minimum stated; more accessible than typical professional consulting roles.
+
+Details
+
+
+
+AI Training - Accountants (UK) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4749007101
+
+🔹 Requires professional accounting qualification (CIMA/ACCA) but no years-of-experience minimum stated; lower barrier than typical senior accounting roles.
+
+Details
+
+
+
+AI Training - Lawyers (PST) · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4748918101
+
+🔹 Requires verifiable legal credentials but no specific years of experience stated; lower barrier than typical senior legal roles.
+
+Details
+
+
+
+**AI Trainer - Clinicians ** · job · freelance · preference score 27.8
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4780048101
+
+🔹 Requires domain expertise (clinician license) but no software/ML background or years of experience in AI/tech roles; lower barrier than typical ML/AI positions.
+
+Details
+
+
+
+DevSecOps Engineer (TypeScript & Agentic AI) · job · full_time · preference score 27.0
+
+greenhouse · https://job-boards.greenhouse.io/arizeai/jobs/5980312004
+
+🔹 4+ years required is typical for DevSecOps mid-level, but the agentic AI security specialization and TypeScript fluency add slightly above-average specificity.
+
+Details
+
+About Arize
+
+AI is rapidly transforming the world. As generative AI reshapes industries, teams need powerful ways to monitor, troubleshoot, and optimize their AI systems. That’s where we come in. Arize AI is the leading AI & Agent Engineering observability and evaluation platform , empowering AI engineers to ship high-performing, reliable agents and applications. From first prototype to production scale, Arize AX unifies build, test, and run in a single workspace—so teams can ship faster with confidence.
+
+We’re a Series C  company backed by top-tier investors,   with  over $135M in funding  and a rapidly growing customer base of  150+ leading enterprises and Fortune 500 companies.  Customers like  Booking.com , Uber, Siemens, and PepsiCo leverage Arize to deliver AI that works.
+
+The Opportunity
+
+We're hiring a DevSecOps Engineer to embed security into how we ship software — not as a gate at the end, but as a capability woven through every pipeline, repo, and runtime. You'll work
+
+
+
+Founding Engineer, Applied AI · job · full_time · preference score 27.0
+
+indeed_apify_old · https://www.indeed.com/viewjob?jk=396397610eac2a91
+
+🔹 2–6 years experience range is slightly below typical for a founding engineer role, though the bar on technical depth (LLMs, post-training, production systems) is high.
+
+Details
+
+
+
+AI Trainer - Advanced Spanish Fluency (Mexico) · job · freelance · preference score 26.6
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4720310101
+
+🔹 No formal experience or credentials required beyond language fluency; typical AI training roles demand ML/NLP background or domain expertise.
+
+Details
+
+
+
+AI Trainer - Advanced Spanish Fluency (EU) · job · freelance · preference score 26.6
+
+greenhouse · https://job-boards.eu.greenhouse.io/prolific/jobs/4720312101
+
+🔹 No formal AI/ML background required; language fluency and attention to detail are primary qualifications, much lower bar than typical AI roles.
+
+Details
+
+
+
+Campus Crew Ambassador (Student Program) · job · project_based · preference score 26.6
+
+greenhouse · https://job-boards.greenhouse.io/hackerrank/jobs/7405039
+
+🔹 Volunteer/experiential program with minimal technical requirements ("knows a bit of code") and low weekly commitment (4-6 hrs) for a student role; no typical seniority bar.
+
+Details
+
+
+

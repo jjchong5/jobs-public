@@ -1,0 +1,25 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.db.bak*
+.streamlit/secrets.toml
+credentials.json
+token.json
+
+# raw scraper dumps, run logs, and personal identity docs -- local only
+data/raw/
+logs/
+docs/*.pdf
+docs/*.mhtml
+
+# raw video-production scratch (Zoom takes, audio test samples) -- final
+# video_cleaned.mp4 and slides/ stay tracked; these are pre-cleanup working files
+docs/project submission/video/original_audio.wav
+docs/project submission/video/sample_*.mp4
+docs/project submission/video/Video from Zoom/

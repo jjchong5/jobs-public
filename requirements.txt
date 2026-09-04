@@ -1,0 +1,17 @@
+requests
+beautifulsoup4
+feedparser
+playwright
+python-dotenv
+pydantic
+anthropic
+openai  # only used by the stubbed GLM tagger provider (src/pipeline/tagger/providers.py)
+apscheduler
+streamlit
+pandas
+matplotlib
+scikit-learn
+apify-client
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
